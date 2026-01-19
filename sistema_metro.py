@@ -7,7 +7,7 @@ def crear_conexion():
         conexion = mysql.connector.connect(
             host='localhost',          
             user='root',               
-            password='perritofeliz12',    
+            password='**********',    
             database='sistemametro'
         )
         
